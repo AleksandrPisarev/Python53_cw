@@ -22,3 +22,4 @@ if begin_range3<=number<=end_range3:
 if flag==0:
     print(f'число {number} не принадлежит  ни одному диапазону')
 else: print(f'число {number} принадлежит {count} диапазонам')
+#
