@@ -60,12 +60,12 @@ list1 =  [2,3,4,3,5,6,7,3,8]
 # print(list1)
 # print(foo1(list1, 7))
 
-import random
-def creat(size, _min, _max):
-    _list=[]
-    for i in range(size):
-        _list.append(random.randint(_min,_max))
-    return _list
-list2 = creat(8,10,99)
-print(list2)
+# import random
+# def creat(size, _min, _max):
+#     _list=[]
+#     for i in range(size):
+#         _list.append(random.randint(_min,_max))
+#     return _list
+# list2 = creat(8,10,99)
+# print(list2)
 
